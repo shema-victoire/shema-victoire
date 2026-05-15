@@ -241,7 +241,7 @@ I'm not waiting to graduate before doing real work.
 
 ## 🔨 Currently
 
-- 🎓 Year 1  BSc Software Engineering
+- 🎓 Year 1  BSc Software Engineering at AUCA
 - 📚 Studying AI development & agentic workflows
 - 🏗️ Building more custom software for Kigali businesses
 - 🌍 Open to remote roles and freelance projects worldwide
