@@ -133,11 +133,9 @@ I'm not waiting to graduate before doing real work.
 
 | Project | What it does | Stack | Links |
 |---|---|---|---|
-| 🦷 **Dental Clinic Platform** | Website + patient booking system. Clients book online, clinic manages appointments without a spreadsheet. | React · Supabase · Laravel | [Repo](#) · [Live](#) |
-| 💪 **Gym Management System** | Tracks memberships, attendance, subscriptions. Replaced a manual process the gym ran for years. | React · Laravel · MySQL | [Repo](#) · [Live](#) |
-| 🏗️ **Construction Co. Website** | Professional web presence for a local firm — built to match the scale of their actual work. | Laravel · Blade · Tailwind | [Repo](#) · [Live](#) |
-| 📦 **Warehouse Management System** | Full inventory and warehouse management system built on Laravel 12. | Laravel · Blade | [Repo](https://github.com/shema-victoire/warehouse-management-system-11) |
-| 👥 **Employee Management System** | EPMS built in React — managing staff records and HR operations. | React · TypeScript | [Repo](https://github.com/shema-victoire/Epmloyee-management-system-in-react) |
+| 🦷 **Dental Clinic Platform** | Website + patient booking system. Clients book online, clinic manages appointments without a spreadsheet. | Typescript React · Supabase ·  | [Repo](#) · [Live](#) |
+| 💪 **Gym Management System** | Tracks memberships, attendance, subscriptions. Replaced a manual process the gym ran for years. | React · Typescript · Supabase | [Repo](#) · [Live](#) |
+| 🏗️ **Construction Co. Website** | Professional web presence for a local firm — built to match the scale of their actual work. | Typescript  | [Repo](#) · [Live](#) |
 
 > Replace the `#` links with real repo/live URLs as you deploy things.
 
