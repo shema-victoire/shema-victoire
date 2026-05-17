@@ -134,8 +134,8 @@ I'm not waiting to graduate before doing real work.
 | Project | What it does | Stack | Links |
 |---|---|---|---|
 | 🦷 **Dental Clinic Platform** | Website + patient booking system. Clients book online, clinic manages appointments without a spreadsheet. | Typescript React · Supabase ·  | [Repo](#) · [Live](#) |
-| 💪 **Gym Management System** | Tracks memberships, attendance, subscriptions. Replaced a manual process the gym ran for years. | React · Typescript · Supabase | [Repo](#) · [Live](#) |
-| 🏗️ **Construction Co. Website** | Professional web presence for a local firm — built to match the scale of their actual work. | Typescript  | [Repo](#) · [Live](#) |
+| 💪 **Gym Management System** | Tracks memberships, attendance, subscriptions. Replaced a manual process the gym ran for years. | React · Typescript · Supabase | [Repo](https://github.com/shema-victoire/Gym-operations-management-system-GOMS-) · [Live](#) |
+| 🏗️ **Construction Co. Website** | Professional web presence for a local firm — built to match the scale of their actual work. | Typescript  | [Repo](#) · [Live](https://vertex-international.vercel.app/) |
 
 > Replace the `#` links with real repo/live URLs as you deploy things.
 
