@@ -137,7 +137,7 @@ I'm not waiting to graduate before doing real work.
 | 🦷 **Dental Clinic Platform** | Website + patient booking system. Clients book online, clinic manages appointments without a spreadsheet. | Typescript React · Supabase ·  | [Repo](#) · [Live](#) |
 | 💪 **Gym Management System** | Tracks memberships, attendance, subscriptions. Replaced a manual process the gym ran for years. | React · Typescript · Supabase | [Repo](https://github.com/shema-victoire/Gym-operations-management-system-GOMS-) · [Live](#) |
 | 🏗️ **Construction Co. Website** | Professional web presence for a local firm — built to match the scale of their actual work. | Typescript  | [Repo](#) · [Live](https://vertex-international.vercel.app/) |
-| 💬 **real-time messaging application** | A real-time messaging application with a premium dark-mode UI | React 19, TypeScript, Vite, Tailwind CSS 3.4 Backend:	InsForge  | [Repo](https://github.com/shema-victoire/Webchat/tree/master) · [Live](#) |
+| 💬 **real-time messaging application** | A real-time messaging application with a premium dark-mode UI | React 19, TypeScript, Vite, Tailwind CSS 3.4 Backend:	InsForge  | [Repo](https://github.com/shema-victoire/Webchat/tree/master) · [Live](https://webchat-rw.vercel.app/) |
 
 > Replace the `#` links with real repo/live URLs as you deploy things.
 
