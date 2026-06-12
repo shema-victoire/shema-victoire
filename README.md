@@ -112,6 +112,7 @@ I'm not waiting to graduate before doing real work.
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Convex](https://img.shields.io/badge/Convex-EE342F?style=for-the-badge&logo=convex&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![InsForge](https://img.shields.io/badge/InsForge-0b0f14?style=for-the-badge&logo=kotlin&logoColor=white)
 
 **Tools**
 
@@ -136,6 +137,7 @@ I'm not waiting to graduate before doing real work.
 | 🦷 **Dental Clinic Platform** | Website + patient booking system. Clients book online, clinic manages appointments without a spreadsheet. | Typescript React · Supabase ·  | [Repo](#) · [Live](#) |
 | 💪 **Gym Management System** | Tracks memberships, attendance, subscriptions. Replaced a manual process the gym ran for years. | React · Typescript · Supabase | [Repo](https://github.com/shema-victoire/Gym-operations-management-system-GOMS-) · [Live](#) |
 | 🏗️ **Construction Co. Website** | Professional web presence for a local firm — built to match the scale of their actual work. | Typescript  | [Repo](#) · [Live](https://vertex-international.vercel.app/) |
+| 💬 **real-time messaging application** | A real-time messaging application with a premium dark-mode UI | React 19, TypeScript, Vite, Tailwind CSS 3.4 Backend:	InsForge  | [Repo](https://github.com/shema-victoire/Webchat/tree/master) · [Live](#) |
 
 > Replace the `#` links with real repo/live URLs as you deploy things.
 
