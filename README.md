@@ -43,7 +43,7 @@ Software developer from **Kigali, Rwanda** 🇷🇼.
 I build custom software for businesses  booking systems, management platforms, web apps 
 using an agentic workflow powered by modern AI tools.
 
-I'm in my first year of Software Engineering. I've already shipped three products for paying clients.
+I am in my first year of Software Engineering. I've already shipped three products for paying clients.
 I'm not waiting to graduate before doing real work.
 
 ---
